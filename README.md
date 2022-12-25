@@ -17,4 +17,6 @@ name('cloud')
 ### Command line
 ```sh
 startup-name-generator --help
+# or
+python3 -m startup-name-generator --h
 ```
